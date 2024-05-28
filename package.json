@@ -1,0 +1,14 @@
+{
+  "name": "nodesteroids",
+  "version": "1.0.0",
+  "description": "An Asteroids clone in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
